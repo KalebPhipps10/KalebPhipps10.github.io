@@ -13,7 +13,7 @@ redirect_from:
    Javascript;
    A little bit of GDscript;
    Unicycle;
-   #### Soft Skills
+   ## Soft Skills
    Determined;
    Organized;
    Credible;
