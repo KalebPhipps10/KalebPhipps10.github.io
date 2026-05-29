@@ -1,6 +1,6 @@
 ---
 title: "Portfolio item number 1"
-excerpt: "Godot Game<br/><img src='/images/GodotGameScreenshot.png'>"
+excerpt: "Godot Game <br/><img scr='/images/GodotGameScreenshot.png'>
 collection: portfolio
 ---
 
