@@ -1,6 +1,6 @@
 ---
 title: "Portfolio item number 1"
-excerpt: "Godot Game<br/><img src='C:\Users\p4user\Downloads\unnamed.png'>"
+excerpt: "Godot Game<br/><img src='https://docs.google.com/u/0/docs-images-rt/ABaEjg2vJucrT3qCSkLV_fVUCpFthhMKPpolZf8_UDNks9aEBMRdDiXrTzklvcCGEA74tePfjbmerEHn_4hTiGc79Hnp_5dUEjFka3qlHGJ1uEK50ACbWJdk86X4dU3ggJR_8XOsqHNpc4BaFGbKIe9FjXV1Pgp3lpuPUvTSORMW=s2048'>"
 collection: portfolio
 ---
 
