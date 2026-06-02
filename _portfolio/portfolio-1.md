@@ -5,6 +5,7 @@ collection: portfolio
 ---
 
 Godot Game<br> 
+-Used Godot and Gdscript<br>
 -Created a simple game where you can walk around as a character<br>
 -Idle and running animations for each direction<br>
 -Learned how to do pixel art<br>
